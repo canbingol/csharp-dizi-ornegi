@@ -1,0 +1,24 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace lab_ödev
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Dizi deneme = new Dizi();
+            // dizinin degeğerlerini random atamak için kullanılacak satırlar (14-16)
+            /* deneme.RandomDizi();
+              deneme.DiziDuzenle(deneme.dizim);*/
+
+            deneme.DiziDuzenle(deneme.DiziAl()); // değerler random alınacağı zaman kullanılmayacak satır
+            deneme.DiziyiYazdir(deneme.dizim);
+            deneme.SıkıstırmaOranı(deneme.dizim);
+            Console.ReadLine();
+        }
+    }
+}

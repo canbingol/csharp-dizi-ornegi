@@ -1,0 +1,7 @@
+C:\Users\canbi\OneDrive\Desktop\klasör klasörü\projeler\c#\lab ödev\lab ödev\bin\Debug\lab ödev.exe.config
+C:\Users\canbi\OneDrive\Desktop\klasör klasörü\projeler\c#\lab ödev\lab ödev\bin\Debug\lab ödev.exe
+C:\Users\canbi\OneDrive\Desktop\klasör klasörü\projeler\c#\lab ödev\lab ödev\bin\Debug\lab ödev.pdb
+C:\Users\canbi\OneDrive\Desktop\klasör klasörü\projeler\c#\lab ödev\lab ödev\obj\Debug\lab ödev.csproj.AssemblyReference.cache
+C:\Users\canbi\OneDrive\Desktop\klasör klasörü\projeler\c#\lab ödev\lab ödev\obj\Debug\lab ödev.csproj.CoreCompileInputs.cache
+C:\Users\canbi\OneDrive\Desktop\klasör klasörü\projeler\c#\lab ödev\lab ödev\obj\Debug\lab ödev.exe
+C:\Users\canbi\OneDrive\Desktop\klasör klasörü\projeler\c#\lab ödev\lab ödev\obj\Debug\lab ödev.pdb
